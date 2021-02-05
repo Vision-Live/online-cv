@@ -7,20 +7,20 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Stephen Raven
+    tagline: Unemployed
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: Stephen.Raven@talktalk.net
+    phone: 07880256066
+    website: vision-live.github.io/ravenfx/ #do not add http://
+    linkedin: StephenRaven
+    github: Vision-Live
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@StephenRaven'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,162 +29,127 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Esperanto
+        level: Aquainted
 
-      - idiom: Spanish
-        level: Professional
 
     interests:
-      - item: Climbing
+      - item: Video Editing/Production
         link:
 
-      - item: Snowboarding
+      - item: Digital Design/Effects
         link:
 
-      - item: Cooking
+      - item: Cooking and Lifestyle
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a well presented, self-motivated and determined young graduate who is keen to continue to learn. I can work well independently or in teams. I am very computer literate, ambitious, friendly, hardworking and quick to learn new skills. 
+      I have excellent IT skills and experience of working with relevant specialised systems, equipment and IT software.  I am familiar with on line communication such as Skype, Zoom and MS Teams and Microsoft Office applications such as Word, Excel and PowerPoint. I also have experience in using a variety of digital film recording, graphics and editing tools such as Adobe Suite, Pro Tools, Illustrator, Black Magic Suite and Final Cut. I can manage and generate proactive communications across a broad range of channels including online and social media, media relations, internal communications, advertising, printed materials and events.
+      My previous work experience has given me good customer service skills.  I am a people person and can work with anyone, resolving professional differences as required.  I am mindful of changing priorities and the functions of myself and others. I am very professional and maintain positive working relationships through my good sense of humour.  I pride myself on being able to produce a high standard of work to meet deadlines. I have a keen eye for detail and can organise my time effectively by using electronic diaries to organise my appointments.
+     
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: 6 GCSE's at C and above including English and Maths
+      university: St. Bede’s Catholic High School
+      time: 2010 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+       
+          - I achieved grade 3 level at electric guitar in this time also.
+        
+    - degree: Media Production BTEC extended diploma
+      university: Cardinal Newman College 
+      time: 2015 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+       
+          - Distinction Distinction Merit (DDM)
+         
+         
+     - degree: BA Hons
+      university: University of Salford
+      time: 2017 - 2020
+      details: |
+       
+          - Film Production 
+          - 2nd class honours
+          
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: front of house
+      time: 2016 - 2017
+      company: Bell and Bottle, Preston
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        alternating tasks including behind house roles - Including; pot washing, catering and other duties.
+          - I left to focus on studies.
+        
+    - role: Customer Sales advisor and helper
+      time: 2019 - Present
+      company: Syft, Manchester
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        working with various festivals providing customer services, cash handling, card payments and assistance role at ‘Blue Dot’ science festival.
+          - Unable to work again due to Covid
+         
+    - role: Corporate/Wedding Video Producer
+      time: 2019 - Present
+      company: Freelancer
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        providing clients with wedding videos, corporate material and social media promotions – self employed.
+          - Self Employed
+          
+    - role: Sales Advisor
+      time: 2020 - 2020
+      company: Debenhams
+      details: |
+        Stock taking, serving customers; dealing with orders and queries and processing payments.  
+          - Christmas Temp Role
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I have a range of projects I have worked on through university, of which I have been shortlisted for awards. 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: No Refunds
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A shortlisted best short film on the mixed views regarding euthenasia"
 
-      - title: Tempo
+      - title: Blackout
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "My shortlisted best cinematography, of an idea I brought to life in University, Arthouse style"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      I keep myself busy through Covid by writing a blog. I have aspirations to publish in the future.
     papers:
-      - title: The Art of Computer Programming
+      - title: Overcoming the leap.
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: S. J. Raven
+        conference: Manchester based Podcast and Blog, powered by Vision Live
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 20%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: 3D Modeling
+        level: 60%
 
-      - name: Angular
-        level: 98%
+      - name: Premiere Pro/Final Cut
+        level: 85%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: After Effects
+        level: 90%
 
       - name: Sketch & Photoshop
         level: 60%
+        
+       - name: Microsoft Office
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
