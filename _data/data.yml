@@ -130,7 +130,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
+    - name: Python
         level: 20%
 
       - name: 3D Modeling
