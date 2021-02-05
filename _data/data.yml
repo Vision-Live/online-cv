@@ -131,25 +131,25 @@ skills:
 
     toolset:
     - name: Python
-        level: 20%
+    level: 20%
 
-      - name: 3D Modeling
-        level: 60%
+    - name: 3D Modeling
+    level: 60%
 
-      - name: Premiere Pro/Final Cut
-        level: 85%
+    - name: Premiere Pro/Final Cut
+    level: 85%
 
-      - name: HTML5 & CSS
-        level: 95%
+    - name: HTML5 & CSS
+    level: 95%
 
-      - name: After Effects
-        level: 90%
+    - name: After Effects
+    level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+    - name: Sketch & Photoshop
+    level: 60%
         
-       - name: Microsoft Office
-        level: 70%
+    - name: Microsoft Office
+    level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
